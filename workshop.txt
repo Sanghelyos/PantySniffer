@@ -29,6 +29,9 @@ description=  [*] Works in both Single and Multiplayer though the MP testing was
 description=  [*] Safe to add mid-game or remove at any time.
 description=[/list]
 description=
+description=[h1]Translations[/h1]
+description=Panty Sniffer currently supports English and Thai.  You can contribute [url=https://steamcommunity.com/workshop/filedetails/discussion/2854335350/3324240298484487559/]translations in this thread[/url].   Translation updates will be published on Tuesdays.
+description=
 description=[quote]
 description=Panty Sniffer is Open-Source and published on [url=https://github.com/Orcicorn-ProjectZomboid/PantySniffer]Github[/url].
 description=Repackage, redistribute, recode, whatever, I don't care, do as you please.
