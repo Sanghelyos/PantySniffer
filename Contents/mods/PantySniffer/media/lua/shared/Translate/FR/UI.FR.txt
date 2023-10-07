@@ -1,0 +1,34 @@
+UI_FR = {
+    UI_SNIFF = "Renifler",
+    UI_SNIFF_ERROR = "Vous avez récemment reniflé ceci. Réessayez plus tard, espèce de dégénéré.",
+
+    UI_SNIFF_CRIT_GOOD1 = "OH OUI, BÉBÉ !",
+    UI_SNIFF_CRIT_GOOD2 = "C'EST CA QUI EST BON",
+    UI_SNIFF_CRIT_GOOD3 = "OH OUAIIIIIIIIS",
+    UI_SNIFF_CRIT_GOOD4 = "OUAIIIIIIIS",
+    UI_SNIFF_CRIT_GOOD5 = "UN EPU DE TENUE !",
+
+    UI_SNIFF_CRIT_BAD1 = "PUTAIN DE MERDE, C'EST GRAVE",
+    UI_SNIFF_CRIT_BAD2 = "OH MON DIEU JE VAIS VOMIR",
+    UI_SNIFF_CRIT_BAD3 = "SAINTE MÈRE DE DIEU",
+    UI_SNIFF_CRIT_BAD4 = "PUTAIN CA SENT LA MERDE",
+    UI_SNIFF_CRIT_BAD5 = "MON DIEU CA SENT LE RAT CREVÉ",
+
+    UI_SNIFF_REACT_GOOD1 = "MmMmmMmMmMMm",
+    UI_SNIFF_REACT_GOOD2 = "Oh putain oui... mmm",
+    UI_SNIFF_REACT_GOOD3 = "Oh ouai, c'est bon ça",
+    UI_SNIFF_REACT_GOOD4 = "Bon dieu que ça sent bon",
+    UI_SNIFF_REACT_GOOD5 = "Ouais ché-riiiiiiie",
+
+    UI_SNIFF_REACT_BAD1 = "*vomis*",
+    UI_SNIFF_REACT_BAD2 = "*pleure*",
+    UI_SNIFF_REACT_BAD3 = "C'était une mauvaise idée",
+    UI_SNIFF_REACT_BAD4 = "Ouaip... ça s'est vraiment passé",
+    UI_SNIFF_REACT_BAD5 = "Qu'est-ce qui cloche chez moi ?",
+
+    UI_SNIFF_NEUTRAL1 = "*renifle*",
+    UI_SNIFF_NEUTRAL2 = "*respire profondément*",
+    UI_SNIFF_NEUTRAL3 = "*inspire*",
+    UI_SNIFF_NEUTRAL4 = "*gémis doucement*",
+    UI_SNIFF_NEUTRAL5 = "*inspire profondément*",
+}
